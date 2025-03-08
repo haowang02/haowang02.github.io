@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Hao Wang (王浩), a Ph.D. student at the College of Computer Science, Chongqing University, China, under the supervision of Prof. Tao Xiang (向涛) and Assoc. Prof. Shangwei Guo (郭尚伟). My research interests focus on trustworthy machine learning, with a particular emphasis on the security of LLM-based agents.
+I’m Hao Wang (王浩), a Ph.D. student at the College of Computer Science, Chongqing University, China, under the supervision of Prof. [Tao Xiang](https://faculty.cqu.edu.cn/txiang/zh_CN/index.htm) (向涛) and Assoc. Prof. [Shangwei Guo](https://guoshangwei.github.io/) (郭尚伟). My research interests focus on trustworthy machine learning, with a particular emphasis on the security of LLM-based agents.
 
 # 🔥 News
 
