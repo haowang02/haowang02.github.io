@@ -1,0 +1,40 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
+I’m Hao Wang (王浩), a Ph.D. student at the College of Computer Science, Chongqing University, China, under the supervision of Prof. Tao Xiang (向涛) and Assoc. Prof. Shangwei Guo (郭尚伟). I received my B.E. from the College of Computer Science, Chongqing University, China. My research interests focus on trustworthy machine learning, with a particular emphasis on the security of LLM-based agents.
+
+# 🔥 News
+
+- 2025.01: One paper is accepted by WWW 2025.
+- 2024.09: One paper is accepted by NeurIPS 2024.
+- 2024.07: One paper is accepted by MM 2024.
+
+# 📝 Publications 
+
+- Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability (<font color="#dd0000">Oral</font>) [<i class="fa-solid fa-file-pdf"></i>](https://arxiv.org/abs/2401.15883) [<i class="fa-brands fa-github"></i>](https://github.com/haowang02/TransTroj)   
+**Hao Wang**, Shangwei Guo, Jialing He, Hangcheng Liu, Tianwei Zhang, Tao Xiang    
+*Proceedings of the ACM Web Conference 2025 (WWW), 2025*
+
+- Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation [<i class="fa-solid fa-file-pdf"></i>](https://proceedings.neurips.cc/paper_files/paper/2024/file/7d26958422928e08465d5dd6cf0cb4cb-Paper-Conference.pdf) [<i class="fa-brands fa-github"></i>](https://github.com/a-c-a-c/AdvRM)   
+Hangcheng Liu, Zhenhu Wu, **Hao Wang**, Xingshuo Han, Shangwei Guo, Tao Xiang, Tianwei Zhang    
+*The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
+- EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second [<i class="fa-solid fa-file-pdf"></i>](https://dl.acm.org/doi/10.1145/3664647.3680689) [<i class="fa-brands fa-github"></i>](https://github.com/haowang02/EvilEdit)   
+**Hao Wang**, Shangwei Guo, Jialing He, Kangjie Chen, Shudong Zhang, Tianwei Zhang, Tao Xiang    
+*Proceedings of the 32nd ACM International Conference on Multimedia (MM), 2024*
