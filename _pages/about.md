@@ -21,22 +21,24 @@ I’m Hao Wang (王浩), a Ph.D. student at the College of Computer Science, Cho
 
 # 🔥 News
 
-- 2025.01: One paper is accepted by WWW 2025.
-- 2024.09: One paper is accepted by NeurIPS 2024.
-- 2024.07: One paper is accepted by MM 2024.
+- *2025.01*: One paper is accepted by WWW 2025.
+- *2024.09*: One paper is accepted by NeurIPS 2024.
+- *2024.07*: One paper is accepted by MM 2024.
 
 # 📝 Publications 
 
-- Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability (<font color="#dd0000">Oral</font>) [<i class="fas fa-fw fa-globe"></i>](https://arxiv.org/abs/2401.15883) [<i class="fab fa-fw fa-github"></i>](https://github.com/haowang02/TransTroj)   
-**Hao Wang**, Shangwei Guo, Jialing He, Hangcheng Liu, Tianwei Zhang, Tao Xiang    
-*Proceedings of the ACM Web Conference 2025 (WWW), 2025*
+- **Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability** (<font color="#dd0000">Oral</font>) [<i class="fas fa-fw fa-link"></i>](https://arxiv.org/abs/2401.15883) [<i class="fab fa-fw fa-github"></i>](https://github.com/haowang02/TransTroj)   
+<u>Hao Wang</u>, Shangwei Guo, Jialing He, Hangcheng Liu, Tianwei Zhang, Tao Xiang    
+*Proceedings of the ACM Web Conference 2025 (WWW)*, 2025
 
-- Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation [<i class="fas fa-fw fa-globe"></i>](https://proceedings.neurips.cc/paper_files/paper/2024/file/7d26958422928e08465d5dd6cf0cb4cb-Paper-Conference.pdf) [<i class="fab fa-fw fa-github"></i>](https://github.com/a-c-a-c/AdvRM)   
-Hangcheng Liu, Zhenhu Wu, **Hao Wang**, Xingshuo Han, Shangwei Guo, Tao Xiang, Tianwei Zhang    
-*The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+- **Beware of Road Markings: A New Adversarial Patch Attack to Monocular Depth Estimation** [<i class="fas fa-fw fa-link"></i>](https://proceedings.neurips.cc/paper_files/paper/2024/file/7d26958422928e08465d5dd6cf0cb4cb-Paper-Conference.pdf) [<i class="fab fa-fw fa-github"></i>](https://github.com/a-c-a-c/AdvRM)   
+Hangcheng Liu, Zhenhu Wu, <u>Hao Wang</u>, Xingshuo Han, Shangwei Guo, Tao Xiang, Tianwei Zhang    
+*The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2024
 
-- EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second [<i class="fas fa-fw fa-globe"></i>](https://dl.acm.org/doi/10.1145/3664647.3680689) [<i class="fab fa-fw fa-github"></i>](https://github.com/haowang02/EvilEdit)   
-**Hao Wang**, Shangwei Guo, Jialing He, Kangjie Chen, Shudong Zhang, Tianwei Zhang, Tao Xiang    
-*Proceedings of the 32nd ACM International Conference on Multimedia (MM), 2024*
+- **EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second** [<i class="fas fa-fw fa-link"></i>](https://dl.acm.org/doi/10.1145/3664647.3680689) [<i class="fab fa-fw fa-github"></i>](https://github.com/haowang02/EvilEdit)   
+<u>Hao Wang</u>, Shangwei Guo, Jialing He, Kangjie Chen, Shudong Zhang, Tianwei Zhang, Tao Xiang    
+*Proceedings of the 32nd ACM International Conference on Multimedia (MM)*, 2024
 
-<i class="" aria-hidden="true"></i>
+- **NLPSweep: A comprehensive defense scheme for mitigating NLP backdoor attacks** [<i class="fas fa-fw fa-link"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000896)    
+Tao Xiang, Fei Ouyang, Di Zhang, Chunlong Xie, <u>Hao Wang</u>    
+*Information Sciences*, 2024
