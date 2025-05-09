@@ -22,11 +22,16 @@ Hi, this is Hao Wang (王浩). I'm a Ph.D. student at the College of Computer Sc
 
 # 🔥 News
 
+- *2025.05*: One paper is accepted by KBS.
 - *2025.01*: One paper is accepted by WWW 2025.
 - *2024.09*: One paper is accepted by NeurIPS 2024.
 - *2024.07*: One paper is accepted by MM 2024.
 
 # 📝 Publications 
+
+- **LLMBD:Backdoor Defense via Large Language Model Paraphrasing and Data Voting in NLP**     
+Fei Ouyang, Di Zhang, Chunlong Xie, <u>Hao Wang</u>, Tao Xiang    
+*Knowledge-Based Systems*, 2025
 
 - **Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability** (<font color="#dd0000">Oral</font>) [<i class="fas fa-fw fa-link"></i>](https://arxiv.org/abs/2401.15883) [<i class="fab fa-fw fa-github"></i>](https://github.com/haowang02/TransTroj)   
 <u>Hao Wang</u>, Shangwei Guo, Jialing He, Hangcheng Liu, Tianwei Zhang, Tao Xiang    
