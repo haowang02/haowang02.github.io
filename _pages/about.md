@@ -29,7 +29,7 @@ Hi, this is Hao Wang (王浩). I'm a Ph.D. student at the College of Computer Sc
 
 # 📝 Publications 
 
-- **LLMBD:Backdoor Defense via Large Language Model Paraphrasing and Data Voting in NLP**     
+- **LLMBD:Backdoor Defense via Large Language Model Paraphrasing and Data Voting in NLP** [<i class="fas fa-fw fa-link"></i>](https://www.sciencedirect.com/science/article/abs/pii/S095070512500783X)    
 Fei Ouyang, Di Zhang, Chunlong Xie, <u>Hao Wang</u>, Tao Xiang    
 *Knowledge-Based Systems*, 2025
 
