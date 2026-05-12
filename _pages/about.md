@@ -20,14 +20,11 @@ redirect_from:
 
 Hi, this is Hao Wang (王浩). I'm a Ph.D. student at the College of Computer Science, Chongqing University, China, under the supervision of Prof. [Tao Xiang](https://faculty.cqu.edu.cn/txiang/zh_CN/index.htm) (向涛) and Prof. [Shangwei Guo](https://guoshangwei.github.io/) (郭尚伟) and a visiting Ph.D. student at the College of Computing and Data Science, Nanyang Technological University, Singapore, under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/) (张天威). My research interests focus on trustworthy machine learning, with a particular emphasis on the security of LLM-based agents.
 
-# 🔥 News
-
-- *2025.05*: One paper is accepted by KBS.
-- *2025.01*: One paper is accepted by WWW 2025.
-- *2024.09*: One paper is accepted by NeurIPS 2024.
-- *2024.07*: One paper is accepted by MM 2024.
-
 # 📝 Publications 
+
+- **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression** [<i class="fas fa-fw fa-link"></i>](https://arxiv.org/abs/2601.21531)    
+Xinwei Zhang, Hangcheng Liu, Li Bai, <u>Hao Wang</u>, Qingqing Ye, Tianwei Zhang, Haibo Hu    
+*International Conference on Machine Learning (ICML)*, 2026
 
 - **LLMBD:Backdoor Defense via Large Language Model Paraphrasing and Data Voting in NLP** [<i class="fas fa-fw fa-link"></i>](https://www.sciencedirect.com/science/article/abs/pii/S095070512500783X)    
 Fei Ouyang, Di Zhang, Chunlong Xie, <u>Hao Wang</u>, Tao Xiang    
