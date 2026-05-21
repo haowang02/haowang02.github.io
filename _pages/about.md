@@ -22,7 +22,7 @@ Hi, this is Hao Wang (王浩). I'm a Ph.D. student at the College of Computer Sc
 
 # 📝 Publications 
 
-- **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression** [<i class="fas fa-fw fa-link"></i>](https://arxiv.org/abs/2601.21531)    
+- **On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression** [<i class="fas fa-fw fa-link"></i>](https://arxiv.org/abs/2601.21531) [<i class="fab fa-fw fa-github"></i>](https://github.com/XinweiZhang1998/CAGE)    
 Xinwei Zhang, Hangcheng Liu, Li Bai, <u>Hao Wang</u>, Qingqing Ye, Tianwei Zhang, Haibo Hu    
 *International Conference on Machine Learning (ICML)*, 2026
 
